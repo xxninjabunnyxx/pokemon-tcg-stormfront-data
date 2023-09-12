@@ -1,0 +1,109 @@
+---
+id: dp7-11
+name: Torterra
+supertype: Pokémon
+subtypes:
+- Stage 2
+level: '47'
+hp: '140'
+types:
+- Fighting
+evolvesFrom: Grotle
+abilities:
+- name: Sunshine Song
+  text: Once during your turn (before your attack), when you play Torterra from your
+    hand to evolve 1 of your Pokémon, you may choose as many of your Grass Pokémon
+    in play as you like. For each Grass Pokémon you choose, search your deck for an
+    Evolution card that evolves from that Pokémon and evolve it. Shuffle your deck
+    afterward.
+  type: Poké-Power
+attacks:
+- name: Crash Impact
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '60'
+  text: Torterra does 20 damage to itself. Your opponent switches the Defending Pokémon
+    with 1 of his or her Benched Pokémon, if any.
+- name: Land Shake
+  cost:
+  - Grass
+  - Grass
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 4
+  damage: '80'
+  text: During your opponent's next turn, when your opponent puts a Basic Pokémon
+    from his or her hand onto his or her Bench, put 2 damage counters on that Pokémon.
+weaknesses:
+- type: Water
+  value: "+30"
+resistances:
+- type: Lightning
+  value: "-20"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 4
+set:
+  id: dp7
+  name: Stormfront
+  series: Diamond & Pearl
+  printedTotal: 100
+  total: 106
+  legalities:
+    unlimited: Legal
+  ptcgoCode: SF
+  releaseDate: 2008/11/01
+  updatedAt: 2020/05/01 16:06:00
+  images:
+    symbol: https://images.pokemontcg.io/dp7/symbol.png
+    logo: https://images.pokemontcg.io/dp7/logo.png
+number: '11'
+artist: Masakazu Fukuda
+rarity: Rare Holo
+nationalPokedexNumbers:
+- 389
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/dp7/11.png
+  large: https://images.pokemontcg.io/dp7/11_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/dp7-11
+  updatedAt: 2023/09/11
+  prices:
+    holofoil:
+      low: 4.0
+      mid: 5.95
+      high: 999.99
+      market: 7.23
+      directLow: 5.59
+    reverseHolofoil:
+      low: 4.24
+      mid: 5.99
+      high: 19.95
+      market: 5.95
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/dp7-11
+  updatedAt: 2023/09/11
+  prices:
+    averageSellPrice: 2.98
+    lowPrice: 0.15
+    trendPrice: 2.72
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 2.92
+    reverseHoloLow: 0.2
+    reverseHoloTrend: 2.01
+    lowPriceExPlus: 1.99
+    avg1: 1.5
+    avg7: 3.74
+    avg30: 2.69
+    reverseHoloAvg1: 2.85
+    reverseHoloAvg7: 2.61
+    reverseHoloAvg30: 2.14
